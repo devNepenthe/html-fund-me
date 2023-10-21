@@ -1,0 +1,9 @@
+{
+    "name": "html-fund-me",
+    "version": "1.0.0",
+    "description": "HTML/Javascript frontend of Fund Me",
+    "license": "MIT",
+    "devDependencies": {
+        "prettier": "^3.0.3"
+    }
+}
